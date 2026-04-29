@@ -1,0 +1,13 @@
+extern void scoreakKudeatu();
+extern void lurrekoaMugitu();
+extern void airekoaMugitu();
+extern void korrika();
+extern void grafikoakHasieratu();
+extern void korrikaraBueltatu();
+extern void makurtu();
+extern void makurtuta();
+extern void salto();
+extern bool ikututa();
+extern void grafikoakBorratu();
+extern void printMenua();
+extern void printGameOver();

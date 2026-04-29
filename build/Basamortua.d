@@ -1,0 +1,1 @@
+Basamortua.o: Basamortua.s
